@@ -8,5 +8,5 @@
 
 ## Credits & License:
 ----
-Directory Downloader were put together by [Hrisikesh](https://twitter.com/hrisikesh_pal) [(VirusZzWarning)](https://github.com/VirusZzHkP), but now it largely remains as a community supported repository. DirectoryDownloader is licensed under the [GNU General Public License v3.0 ](LICENSE).
+[Chess-Game-AI-Based](https://github.com/VirusZzHkP/Chess-Game-AI-Based) were put together by [Hrisikesh](https://twitter.com/hrisikesh_pal) [(VirusZzWarning)](https://github.com/VirusZzHkP), but now it largely remains as a community supported repository. Chess-Game-AI-Based is licensed under the [GNU General Public License v3.0 ](LICENSE).
 
